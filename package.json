@@ -1,0 +1,12 @@
+{
+  "name": "ip-logger",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "morgan": "^1.10.0"
+  }
+}
